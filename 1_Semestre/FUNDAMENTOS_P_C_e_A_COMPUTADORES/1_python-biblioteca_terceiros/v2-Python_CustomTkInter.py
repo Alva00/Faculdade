@@ -7,7 +7,7 @@ left_margin_text = 25
 current_number_user = [0]
 
 def main():
-    #Aqui, há itens (i)mutáveis da biblioteca do CustonTkInter.
+    #Aqui, há itens (i)mutáveis da biblioteca do CustomTkInter.
     global main_window, current_height_text
     customtkinter.set_appearance_mode("dark")
     customtkinter.set_default_color_theme("blue")
